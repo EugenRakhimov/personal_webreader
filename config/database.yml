@@ -18,7 +18,7 @@ development:
   encoding: unicode
   database: personal_webreader_development
   pool:     5
-  username: personal_webreader
+  username: 
   password:
   template: template0
 
